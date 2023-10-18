@@ -1,0 +1,23 @@
+body {
+    background:linear-gradient(to right,rgb(49,111,159),rgb(33,94,141),#205E8D,#236191,rgb(17,54,86));
+    position: fixed;
+    top: 0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overscroll-behavior-y: auto;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+/*
+POSIBLES COLORES PARA  LA APP 
+#343537 color plomo,
+#8FA1AF color medio transparente,
+#163954 azul mas oscuro,#
+308BFB color como para botones, 
+#091E33 tono azul muy oscuro*/
+
