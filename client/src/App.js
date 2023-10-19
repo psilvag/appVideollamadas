@@ -11,7 +11,7 @@ const App = () => {
   //className={classes.wrapper}
   //className={classes.appBar}
   return (
-    <div >
+    <div className='app-container' >
         <h1>Video Chat</h1>       
         <VideoPlayer/>
         <Options>

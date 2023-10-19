@@ -13,6 +13,13 @@ body {
     margin: 0;
     padding: 0;
 }
+.app-container{
+    width: 90%;
+    height: 100%;
+    margin: 20px;
+    display:flex;
+
+}
 /*
 POSIBLES COLORES PARA  LA APP 
 #343537 color plomo,
